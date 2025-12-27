@@ -31,4 +31,4 @@ I have worked on real business systems, including:
 - Long-term maintainability
 
 ## 📫 Contact
-- LinkedIn: *(poné el link)*
+- LinkedIn: https://www.linkedin.com/in/daniel-larrosa/
