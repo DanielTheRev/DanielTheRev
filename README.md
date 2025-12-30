@@ -1,34 +1,33 @@
-# 👋 Hi, I'm Daniel
+👋 Hi, I'm Daniel
 
-Full-stack developer with experience building real-world web applications for small and medium businesses.
-I focus on creating maintainable systems, clear architectures, and solutions that actually get used in production.
+Software Developer focused on building production-ready web systems for real businesses.
+I specialize in designing maintainable architectures, automating business processes, and delivering applications that are actually used in day-to-day operations.
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 - Frontend: Angular, Next.js, TypeScript
 - Backend: Node.js, TypeScript, REST APIs
 - Databases: PostgreSQL, MongoDB
 - Other: Git, Docker (basic), SSR, SEO
 
-## 💼 Real Projects
-I have worked on real business systems, including:
+💼 Real Projects & Experience
+I have worked on real-world business applications, including:
+- ERP-like internal management systems (inventory, budgets, purchase orders)
+- Custom CMS platforms used by non-technical users
+- Corporate websites optimized for SEO using Server-Side Rendering
+- End-to-end full-stack development: backend APIs, frontend apps, deployment and maintenance
 
-- **ERP-like systems** for internal management (stock, budgets, orders)
-- **Corporate websites** with SSR and SEO
-- **Custom CMS platforms** for content management
-- **Full-stack applications** from backend APIs to frontend interfaces
+Selected repositories:
+- dm-erp-backend — ERP backend with Node.js and REST APIs
+- dm-erp-frontend — Internal management frontend
+- dm-corporate-website — Corporate website with SSR
+- em-headless-cms-backend — Headless CMS backend
+- em-cms-frontend — CMS frontend
+- lbi-corporate-website — Corporate website
 
-### Selected repositories:
-- `dm-erp-backend` — ERP backend with Node.js and REST API
-- `dm-erp-frontend` — Internal management frontend
-- `dm-corporate-website` — Corporate website with SSR
-- `em-headless-cms-backend` — Headless CMS backend
-- `em-cms-frontend` — CMS frontend
-- `lbi-corporate-website` — Corporate website
-
-## 📌 What I value
+📌 What I value
 - Clean and understandable code
 - Practical solutions over overengineering
 - Long-term maintainability
 
-## 📫 Contact
+📫 Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-larrosa/
